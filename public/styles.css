@@ -3,11 +3,11 @@ body {
 }
 
 header {
-    background-color: #fd0dc9;
+    background-color: #1d0cbb;
 }
 
 header img {
-    border: 5px solid white;
+    border: 5px solid rgb(110, 45, 45);
 }
 
 header h1 {
@@ -21,7 +21,7 @@ header p.lead {
 }
 
 .social-links a {
-    color: white;
+    color: rgb(23, 133, 126);
     transition: color 0.3s;
 }
 
