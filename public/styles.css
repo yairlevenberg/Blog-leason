@@ -3,11 +3,11 @@ body {
 }
 
 header {
-    background-color: #1d0cbb;
+    background-color: #30421b;
 }
 
 header img {
-    border: 5px solid rgb(110, 45, 45);
+    border: 5px solid rgb(138, 98, 98);
 }
 
 header h1 {
@@ -26,7 +26,7 @@ header p.lead {
 }
 
 .social-links a:hover {
-    color: #d4d4d4;
+    color: #352a2a;
 }
 
 .card-title {
@@ -35,7 +35,7 @@ header p.lead {
 }
 
 footer {
-    border-top: 1px solid #eaeaea;
+    border-top: 1px solid #921d1d;
     margin-top: 2rem;
     padding-top: 1rem;
 }
@@ -43,5 +43,5 @@ footer {
 footer p {
     margin-bottom: 0;
     font-size: 0.875rem;
-    color: #6c757d;
+    color: #117ddb;
 }
